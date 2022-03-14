@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andersondigital
 - 👀 I’m interested in Business Development
-- 🌱 I’m currently learning IT & Data Analytics & Microsoft Azure
-- 💞️ I’m looking to collaborate on Business Development, Project Management, Web Design, Digital Marketing, & Content Creation.
+- 🌱 I’m currently learning IT & Data Analytics, Agile Project Development methodologies, & cloud technologies like Microsoft Azure
+- 💞️ I’m looking to collaborate on Business Development, Project Management, Web Design, Digital Marketing, & Content Creation
 - 📫 How to reach me: linkedin.com/in/shayandersonhfx
 
 <!---
